@@ -1,4 +1,4 @@
-# HersheyCompany-financial-analysis
+# company-financial-analysis
 
 ## Overview  
 This project provides a comprehensive financial analysis of The Hershey Company. Using publicly available financial data, the analysis explores income statements, debt-to-income ratios, profitability, and overall financial health. A comparison with Nestlé is included to contextualize Hershey’s performance within the industry.

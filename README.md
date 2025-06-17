@@ -10,7 +10,7 @@ This project provides a comprehensive financial analysis of The Hershey Company.
 
 ## Key Insights  
 - **Strong Capital Structure**  
-  Hershey has demonstrated responsible financial management with a notable decrease in long-term debt—from over $4 million in 2021 to $3.34 million in 2022. Their debt ratio also improved from 0.48 to 0.37, and total equity increased to $3.3 million. This points to low financial risk and a strong capacity to manage debt.
+  Hershey has demonstrated responsible financial management with a notable decrease in long-term debt from over $4 million in 2021 to $3.34 million in 2022. Their debt ratio also improved from 0.48 to 0.37, and total equity increased to $3.3 million. This points to low financial risk and a strong capacity to manage debt.
 
 - **Investment Potential**  
   Hershey shows promising long-term investment value due to its ability to handle debt obligations and adapt to economic changes. However, short-term fluctuations in commodity costs (like cocoa) may result in volatile stock performance and a temporarily elevated P/E ratio.

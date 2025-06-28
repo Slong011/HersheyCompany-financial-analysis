@@ -28,4 +28,4 @@ In 2022, Company A’s long-term debt was reported at approximately $3.34 millio
 ## Purpose  
 This project was completed as part of a business/finance course and serves to demonstrate analytical thinking, financial literacy, and presentation skills.
 
-This analysis is intended solely for educational and informational purposes. It does not constitute investment advice or a recommendation to buy, sell, or hold any securities.
+This analysis is intended solely for educational and informational purposes. It does not constitute investment advice or a recommendation to buy, sell, or hold any securities. Company name and identifying details have been anonymized. 
